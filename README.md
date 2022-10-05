@@ -2,7 +2,7 @@
 
 Alfred AsciiChars offers you fast resolution of ascii entities into their decimal equivalents, as well as access to non-printable characters via copy/paste.
 
-**[Click Here to Download the Latest Release](https://github.com/stephancasas/alfred-download2here/releases/latest)**
+**[Click Here to Download the Latest Release](https://github.com/stephancasas/alfred-asciichars/releases/latest)**
 
 <p align="center"><img src="./public/preview.gif" width="100%"></p>
 
