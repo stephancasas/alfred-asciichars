@@ -4,7 +4,7 @@ Alfred AsciiChars offers you fast resolution of ascii entities into their decima
 
 **[Click Here to Download the Latest Release](https://github.com/stephancasas/alfred-asciichars/releases/latest)**
 
-<p align="center"><img src="./public/preview.gif" width="100%"></p>
+<p align="center"><img src="./public/preview.png" width="100%"></p>
 
 ## Usage
 
